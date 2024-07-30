@@ -17,7 +17,7 @@ Getting Started
     Run the following commands in a Colab cell to install required libraries:
 
     ```python
-    !pip install numpy pandas scikit-learn matplotlib seaborn
+    pip install numpy pandas scikit-learn matplotlib seaborn
     ```
 
 3. Upload the dataset:
